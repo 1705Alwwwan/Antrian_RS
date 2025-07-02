@@ -37,5 +37,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "homepage": "https://https://1705alwwwan.github.io/Antrian_RS/",
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
   }
 }
